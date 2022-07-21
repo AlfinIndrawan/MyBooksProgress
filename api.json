@@ -1,5 +1,32 @@
 [
   {
+    "title": "RxSwift (Fourth Edition)",
+    "authors": [
+      "raywenderlich Tutorial Team",
+      "Junior Bontognali",
+      "Scott Gardner",
+      "Florent Pillet",
+      "Shai Mishali",
+      "Marin Todorov"
+    ],
+    "publishedDate": "2020-08-11",
+    "description": "Learn Reactive Programming in Swift with RxSwift!The popularity of reactive programming continues to grow on an every-increasing number of platforms and languages. Rx lets developers easily and quickly build apps with code that can be understood by other Rx developers - even over different platforms.Not only will you learn how to use the RxSwift port to create complex reactive applications on iOS, you'll also see how to easily solve common application design issues by using RxSwift. Finally you'll discover how to exercise full control over the library and leverage the full power of reactive programming in your apps.This books is for iOS developers who already feel comfortable with iOS and Swift, and want to dive deep into development with RxSwift.Topics Covered in RxSwift:- Getting Started: Get an introduction to the reactive programming paradigm, learn the terminology involved and see how to begin using RxSwift in your projects.- Event Management: Learn how to handle asynchronous event sequences via two key concepts in Rx - Observables and Observers.- Being Selective: See how to work with various events using concepts such as filtering, transforming, combining, and time operators.- UI Development: RxSwift makes it easy to work with UI of your apps using RXCocoa, which provides integration of both UIKit and Cocoa.- Intermediate Topics: Level up your RxSwift knowledge with chapters on reactive networking, multi-threading, and error handling.And much, much more!By the end of this book, you'll have hands-on experience solving common issues in a reactive paradigm - and you'l be well on your way to coming up with your own Rx patterns and solutions!",
+    "image": "http://books.google.com/books/content?id=UhmBzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "isbn10": "1950325245",
+    "isbn13": "9781950325245",
+    "googleBooks": {
+      "id": "UhmBzgEACAAJ",
+      "preview": "http://books.google.com/books?id=UhmBzgEACAAJ&dq=intitle:RxSwift+(Fourth+Edition):+Reactive+Programming+with+Swift++by+Junior+Bontognali,+Scott+Gardner,+Florent+Pillet,+Shai+Mishali,+Marin+Todorov&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=UhmBzgEACAAJ&dq=intitle:RxSwift+(Fourth+Edition):+Reactive+Programming+with+Swift++by+Junior+Bontognali,+Scott+Gardner,+Florent+Pillet,+Shai+Mishali,+Marin+Todorov&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/RxSwift_Fourth_Edition.html?hl=&id=UhmBzgEACAAJ"
+    },
+    "issueNumber": 3,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-07-21T07:12:13.000Z"
+  },
+  {
     "title": "Advanced Git (Second Edition)",
     "authors": [
       "Jawwad Ahmad",
