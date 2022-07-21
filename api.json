@@ -1,5 +1,33 @@
 [
   {
+    "title": "IOS Test-Driven Development by Tutorials (First Edition): Learn Real-World Test-Driven Development",
+    "authors": [
+      "Joshua Greene",
+      "Michael Katz",
+      "Raywenderlich Tutorial Team"
+    ],
+    "publishedDate": "2019-12-02",
+    "description": "Learn how to test iOS Applications! iOS Test-Driven Development introduces you to a broad range of concepts with regard to not only writing an application from scratch with testing in mind, but also applying these concepts to already written applications which have little or no tests written for their functionality. Who This Book Is For This book is for intermediate iOS developers who already know the basics of iOS and Swift development but want to learn how to write code which is both testable and maintainable. Topics Covered in iOS Test-Driven Development The TDD Cycle: Learn the concepts of Test-Driven Development and how to implement these concepts within an iOS application. Test Expressions and Expectations: Learn how to test both synchronous code using expressions and asynchronous code using expectations. Test RESTful Networking: Write tests to verify networking endpoints and the ability to mock the returned results. Test Authentication: Write tests which run against authenticated endpoints. Legacy Problems: Explore the problems legacy applications written without any unit tests or without thought of testing the code. Breaking Dependencies into Modules: Learn how to take dependencies within your code and compartmentalize these into their own modules with their own tests. Refactoring Large Classes: Learn how to refactor large unweilding classes into smaller more manageable and testable classes / objects. One thing you can count on: after reading this book, you'll be prepared to write testable applications which you can have confidence in making changes too with the knowledge your tests will catch breaking changes.",
+    "image": "http://books.google.com/books/content?id=bwSxzAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 328,
+    "isbn10": "194287880X",
+    "isbn13": "9781942878803",
+    "googleBooks": {
+      "id": "bwSxzAEACAAJ",
+      "preview": "http://books.google.com/books?id=bwSxzAEACAAJ&dq=intitle:IOS+Test-Driven+Development+by+Tutorials+(First+Edition):+Learn+Real-World+Test-Driven+Development+by+Joshua+Greene,+Michael+Katz&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=bwSxzAEACAAJ&dq=intitle:IOS+Test-Driven+Development+by+Tutorials+(First+Edition):+Learn+Real-World+Test-Driven+Development+by+Joshua+Greene,+Michael+Katz&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/IOS_Test_Driven_Development_by_Tutorials.html?hl=&id=bwSxzAEACAAJ"
+    },
+    "issueNumber": 4,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-07-21T07:15:00.000Z"
+  },
+  {
     "title": "RxSwift (Fourth Edition)",
     "authors": [
       "raywenderlich Tutorial Team",
