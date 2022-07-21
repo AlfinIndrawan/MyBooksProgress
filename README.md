@@ -1,6 +1,6 @@
 # 📚 Books
 
-This repository is used to track the books I'm reading these days. Hover the book to see my progress
+This repository is used to track the books I'm reading these days. **Hover the book to see my progress**
 
 [![Bookshelf Action: New Issue](https://github.com/AnandChowdhary/books/workflows/Bookshelf%20Action:%20New%20Issue/badge.svg)](https://github.com/AnandChowdhary/bookshelf-action/actions?query=workflow%3A%Bookshelf+Action%3A+New+Issue%22)
 [![Bookshelf Action: Close Issue](https://github.com/AnandChowdhary/books/workflows/Bookshelf%20Action:%20Close%20Issue/badge.svg)](https://github.com/AnandChowdhary/bookshelf-action/actions?query=workflow%3A%Bookshelf+Action%3A+Close+Issue%22)
