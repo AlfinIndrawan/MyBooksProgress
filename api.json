@@ -1,5 +1,34 @@
 [
   {
+    "title": "Advanced Git (Second Edition)",
+    "authors": [
+      "Jawwad Ahmad",
+      "Raywenderlich Tutorial Team",
+      "Chris Belanger"
+    ],
+    "publisher": "Razeware LLC",
+    "publishedDate": "2021-10-12",
+    "description": "Get Advanced With Git! If you're involved with software development, chances are you've heard of and used Git at some point. Version control systems are critical for any successful collaborative software project. Git is simple to start using, while accommodating the most complex tasks with version control. However, even seasoned Git users hit roadblocks on how to handle everyday situations. Advanced Git is here to help! This book begins where the other Git book in our catalog, \"Git Apprentice\", ends. Who This Book Is For This book is for anyone who wants to leverage version control's power with Git in their software development process. It starts with a look under Git's hood, then moves on to more complicated scenarios including merge conflicts, rebasing and more. Finally, you'll learn common workflows using Git. Topics Covered in Advanced Git How Git actually works: After using Git for a while, it's good to discover the whys behind all the things. Rebasing: A more advanced way of merging code and collaborating. Merge Conflicts & Undo: You'll eventually run into problems while using Git. Find out how to handle them with ease. Workflows in Git: Working with Git requires some rules to ensure things go smoothly across development teams. Learn the most common workflows and how to decide which to use for your project. One thing you can count on: After reading this book, you'll be well-prepared to use Git in your software development workflow!",
+    "image": "http://books.google.com/books/content?id=sDSvzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 238,
+    "isbn10": "1950325504",
+    "isbn13": "9781950325504",
+    "googleBooks": {
+      "id": "sDSvzgEACAAJ",
+      "preview": "http://books.google.com/books?id=sDSvzgEACAAJ&dq=intitle:Advanced+Git+(Second+Edition):+Understanding+Git+Collaboration+%26+Workflows+by+Chris+Belanger+and+Jawwad+Ahmad&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=sDSvzgEACAAJ&dq=intitle:Advanced+Git+(Second+Edition):+Understanding+Git+Collaboration+%26+Workflows+by+Chris+Belanger+and+Jawwad+Ahmad&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Advanced_Git_Second_Edition.html?hl=&id=sDSvzgEACAAJ"
+    },
+    "issueNumber": 2,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-07-21T07:08:47.000Z"
+  },
+  {
     "title": "iOS 15 Programming for Beginners",
     "authors": [
       "Ahmad Sahar",
