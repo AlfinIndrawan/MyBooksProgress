@@ -1,1 +1,30 @@
-
+[
+  {
+    "title": "iOS 15 Programming for Beginners",
+    "authors": [
+      "Ahmad Sahar",
+      "Craig Clayton"
+    ],
+    "publisher": "Packt Publishing Ltd",
+    "publishedDate": "2021-12-24",
+    "description": "iOS 15 Programming for Beginners is an introductory guide to learning the essentials of Swift programming and iOS development for building your first iOS app and publishing it on the App Store. Fully updated to cover the latest features in iOS 15, this practical guide will help you get up to speed with writing iOS apps from scratch.",
+    "image": "http://books.google.com/books/content?id=-J1WEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 784,
+    "isbn10": "1801812136",
+    "isbn13": "9781801812139",
+    "googleBooks": {
+      "id": "-J1WEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=-J1WEAAAQBAJ&printsec=frontcover&dq=intitle:IOS+15+Programming+for+Beginners:+Kickstart+Your+Mobile+App+Development+Journey+by+Building+IOS+Apps+with+Swift+5.5+and+Xcode+13,+6th+Edition+by+Ahmad+Sahar+and+Craig+Clayton&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=-J1WEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=-J1WEAAAQBAJ"
+    },
+    "issueNumber": 1,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-07-21T07:04:47.000Z"
+  }
+]
