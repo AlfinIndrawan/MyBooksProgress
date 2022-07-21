@@ -1,5 +1,32 @@
 [
   {
+    "title": "Building Distributed Applications in Gin",
+    "authors": [
+      "Mohamed Labouardy"
+    ],
+    "publisher": "Packt Publishing Ltd",
+    "publishedDate": "2021-07-23",
+    "description": "An effective guide to learning how to build a large-scale distributed application using the wide range of functionalities in Gin Key FeaturesExplore the commonly used functionalities of Gin to build web applicationsBecome well-versed with rendering HTML templates with the Gin engineSolve commonly occurring challenges such as scaling, caching, and deploymentBook Description Gin is a high-performance HTTP web framework used to build web applications and microservices in Go. This book is designed to teach you the ins and outs of the Gin framework with the help of practical examples. You'll start by exploring the basics of the Gin framework, before progressing to build a real-world RESTful API. Along the way, you'll learn how to write custom middleware and understand the routing mechanism, as well as how to bind user data and validate incoming HTTP requests. The book also demonstrates how to store and retrieve data at scale with a NoSQL database such as MongoDB, and how to implement a caching layer with Redis. Next, you'll understand how to secure and test your API endpoints with authentication protocols such as OAuth 2 and JWT. Later chapters will guide you through rendering HTML templates on the server-side and building a frontend application with the React web framework to consume API responses. Finally, you'll deploy your application on Amazon Web Services (AWS) and learn how to automate the deployment process with a continuous integration/continuous delivery (CI/CD) pipeline. By the end of this Gin book, you will be able to design, build, and deploy a production-ready distributed application from scratch using the Gin framework. What you will learnBuild a production-ready REST API with the Gin frameworkScale web applications with event-driven architectureUse NoSQL databases for data persistenceSet up authentication middleware with JWT and Auth0Deploy a Gin-based RESTful API on AWS with Docker and KubernetesImplement a CI/CD workflow for Gin web appsWho this book is for This book is for Go developers who are comfortable with the Go language and seeking to learn REST API design and development with the Gin framework. Beginner-level knowledge of the Go programming language is required to make the most of this book.",
+    "image": "http://books.google.com/books/content?id=Vrg0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 482,
+    "isbn10": "1801079552",
+    "isbn13": "9781801079556",
+    "googleBooks": {
+      "id": "Vrg0EAAAQBAJ",
+      "preview": "http://books.google.com/books?id=Vrg0EAAAQBAJ&printsec=frontcover&dq=intitle:Building+Distributed+Applications+in+Gin:+A+hands-on+guide+for+Go+developers+to+build+and+deploy+distributed+web+apps+with+the+Gin+framework+by+Mohamed+Labouardy&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=Vrg0EAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=Vrg0EAAAQBAJ"
+    },
+    "issueNumber": 6,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-07-21T07:17:54.000Z"
+  },
+  {
     "title": "The Go Programming Language",
     "authors": [
       "Alan A. A. Donovan",
