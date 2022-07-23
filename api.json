@@ -163,7 +163,10 @@
     },
     "issueNumber": 1,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2022-07-21T07:04:47.000Z"
+    "state": "completed",
+    "startedAt": "2022-07-21T07:04:47.000Z",
+    "completedAt": "2022-07-23T10:23:05.000Z",
+    "timeToComplete": 184698000,
+    "timeToCompleteFormatted": "2 days"
   }
 ]
