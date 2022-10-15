@@ -1,5 +1,33 @@
 [
   {
+    "title": "Core Data by Tutorials (Eighth Edition)",
+    "authors": [
+      "raywenderlich Tutorial Team",
+      "Aaron Douglas",
+      "Matthew Morey",
+      "Saul Morrow",
+      "Pietro Rea"
+    ],
+    "publisher": "Razeware LLC",
+    "publishedDate": "2020-11-20",
+    "description": "Learn Core Data With Swift!Take control of your data in iOS apps using Core Data, through a series of high quality hands-on tutorials.Start with the basics like setting up your own Core Data Stack all the way to advanced topics like migration, performance, multithreading, and more! By the end of this book, you'll have hands-on experience with Core Data and will be ready to use it in your own apps.Who This Book Is For:This book is for intermediate iOS developers who already know the basics of iOS and Swift development but want to learn how to use Core Data to save data in their apps.Topics Covered in Core Data by Tutorials:Your First Core Data App: You'll click File\\New Project and write a Core Data app from scratch!NSManagedObject Subclasses: Learn how to create your own subclasses of NSManagedObject - the base data storage class in Core Data.The Core Data Stack: Learn how the main objects in Core Data work together, so you can move from the starter Xcode template to your own system.Intermediate Fetching: This chapter covers how to fetch data with Core Data - fetch requests, predicates, sorting and asynchronous fetching.NSFetchedResultsController: Learn how to make Core Data play nicely with table views using NSFetchedResultsController!Versioning and Migration: In this chapter, you'll learn how to migrate your user's data as they upgrade through different versions of your data model.Unit Tests: In this chapter, you'll learn how to set up a test environment for Core Data and see examples of how to test your models.Measuring and Boosting Performance: Learn how to measure your app's performance with various Xcode tools and deal with slow spots in your code.Multiple Managed Object Contexts: Learn how multiple managed object contexts can improve performance and make for cleaner code.Core Data and CloudKit: Learn how to synchronize Core Data across all of a user's devices.",
+    "image": "http://books.google.com/books/content?id=8QuPzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "pageCount": 327,
+    "isbn10": "1950325342",
+    "isbn13": "9781950325344",
+    "googleBooks": {
+      "id": "8QuPzgEACAAJ",
+      "preview": "http://books.google.com/books?id=8QuPzgEACAAJ&dq=intitle:Core+Data+by+Tutorials+(Eighth+Edition):+Persisting+IOS+App+Data+with+Core+Data+in+Swift+by+Aaron+Douglas,+Matthew+Morey,+Saul+Morrow&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=8QuPzgEACAAJ&dq=intitle:Core+Data+by+Tutorials+(Eighth+Edition):+Persisting+IOS+App+Data+with+Core+Data+in+Swift+by+Aaron+Douglas,+Matthew+Morey,+Saul+Morrow&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Core_Data_by_Tutorials_Eighth_Edition.html?hl=&id=8QuPzgEACAAJ"
+    },
+    "issueNumber": 8,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-10-15T09:52:55.000Z"
+  },
+  {
     "title": "Building Distributed Applications in Gin",
     "authors": [
       "Mohamed Labouardy"
